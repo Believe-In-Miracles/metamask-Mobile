@@ -1,6 +1,6 @@
 # osx
 .DS_Store
-
+build.sh
 # xcode
 build/
 *.pbxuser
